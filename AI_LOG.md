@@ -1,14 +1,11 @@
 ﻿# AI Usage Log
 
-Please be honest and detailed about your AI usage. Using AI is perfectly fine and expected, but we want to understand your workflow!
+## Tools Used:
+ GitHub Copilot, Opencode
 
-## Tools Used
-*(e.g., GitHub Copilot, ChatGPT, Claude, Cursor, etc.)*
+## Log:
 
-- 
-- 
 
-## How did you use AI for this assessment?
 
 **Task 1: Pricing Logic Bug**
 - *Did you use AI to find the bug? If so, what prompt did you use?*
