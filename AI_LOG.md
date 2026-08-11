@@ -1,7 +1,7 @@
 ﻿# AI Usage Log
 
 ## Tools Used:
- GitHub Copilot, Opencode
+ GitHub Copilot, Opencode, ChatGPT
 
 ## Log:
 
